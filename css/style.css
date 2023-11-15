@@ -3,3 +3,72 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.header-content{
+    height: 100px;
+    display: flex;
+}
+
+.logo{
+    width: 10%;
+}
+
+.bell{
+    color: orange;
+}
+
+.main-content{
+    height: 500px;
+    border: 1px dashed black;
+    background-color: blue;
+    display: flex;
+}
+
+.dashboard{
+    height: 500px;
+    width: 100px;
+    border: 1px dashed black;
+    background-color: beige;
+}
+
+.main-board{
+    height: 490px;
+    width: 90%;
+    border: 1px dashed black;
+    background-color: beige;
+}
+
+.jumbo{
+    height: 100px;
+    width: 95%;
+    border: 1px dashed black;
+    background-color: green;
+}
+
+.panels{
+    height: 80%;
+    width: 95%;
+    border: 1px dashed black;
+    background-color: orange;
+}
+
+.card-container1{
+    height: 50%;
+    width: 66%;
+    border: 1px dashed black;
+    background-color: rgb(0, 128, 255);
+}
+
+.card-container2{
+    height: 50%;
+    width: 33%;
+    border: 1px dashed black;
+    background-color: rgb(0, 128, 255);
+}
+
+.cards{
+    height: 100px;
+    width: 95%;
+    border: 1px dashed black;
+    background-color: rgba(255, 0, 0, 0.5);
+}
